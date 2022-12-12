@@ -1,0 +1,39 @@
+.nav li{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.top{
+    display: flex;
+    background-color: rgb(129, 129, 168);
+    max-width: 60%;
+    justify-content: center;
+    margin: auto;
+
+}
+.top2>h1{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.top2>h2{
+    display: flex;
+    justify-content: center;
+}
+.nav li a button{
+    font-size: 20px;
+
+}
+hr{
+    display: flex;
+    max-width: 75%;
+}
+.top2{
+    display: block;
+}
+.navi{
+    display: flex;
+    justify-content: center;
+}
